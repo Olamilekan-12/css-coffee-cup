@@ -12,3 +12,12 @@ body {
   justify-content: center;
   background: rgb(61, 75, 61);
 }
+
+.cup {
+  position: relative;
+  width: 280px;
+  height: 300px;
+  background: linear-gradient(to right, #f9f9f9, #d9d9d9);
+  border-bottom-left-radius: 45%;
+  border-bottom-right-radius: 45%;
+}
